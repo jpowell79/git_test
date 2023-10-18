@@ -1,6 +1,2 @@
-hello world 
-hello Odin!!
-hello VS Code!
-test!
-test
-did it work?
+Hello world 
+Hello Odin
